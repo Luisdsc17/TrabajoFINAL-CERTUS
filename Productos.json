@@ -1,0 +1,86 @@
+[
+    {
+        "sku": "TP614EL1AHUOLLPE",
+        "name": "Whisky JHONNIE WALKER(etiqueta negra) 750ml",
+        "price": "150.00",
+        "offer": "0.30",
+        "image": "articulo1.jpg"
+    },
+    {
+        "sku": "LE060EL0HR4G9LPE",
+        "name": "Ron CARTAVIO Black 1L",
+        "price": "35.00",
+        "offer": "0.10",
+        "image": "articulo2.jpg"
+    },
+    {
+        "sku": "EP057EL128KOULPE",
+        "name": "Vodka SMIRNOFF N°21 700ml",
+        "price": "40.00",
+        "offer": "0.10",
+        "image": "articulo3.jpg"
+    },
+    {
+        "sku": "OE991EL0U4PXVLPE",
+        "name": "Tequila JOSÉ CUERVO SILVER 750ml",
+        "price": "40.00",
+        "offer": "0.05",
+        "image": "articulo4.jpg"
+    },
+    {
+        "sku": "XP799EL166UO8LPE",
+        "name": "Pisco SANTIAGO QUEIROLO Acholado 750ml",
+        "price": "33.00",
+        "offer": "0.05",
+        "image": "articulo5.jpg"
+    },
+    {
+        "sku": "XP764EL0DGME1LPE",
+        "name": "Gaseosa EVERNESS Ginger Ale 1.5L",
+        "price": "6.00",
+        "offer": "0.05",
+        "image": "articulo6.jpg"
+    },
+    {
+        "sku": "XP764EL0C62E9LPE",
+        "name": "Bolsa de Hielo 2Kg",
+        "price": "5.00",
+        "offer": "0.05",
+        "image": "articulo7.jpg"
+    },
+    {
+        "sku": "XI061EL17ND2HLPE",
+        "name": "Cerveza PILSEN 6 Pack Lata 355ml",
+        "price": "24.00",
+        "offer": "0.05",
+        "image": "articulo8.jpg"
+    },
+    {
+        "sku": "UB801EL1K9UCVLPE",
+        "name": "Gin WEMBLEY 700ml",
+        "price": "39.00",
+        "offer": "0.10",
+        "image": "articulo9.jpg"
+    },
+    {
+        "sku": "XI061EL07IPJILPE",
+        "name": "Licor de Crema BAILEYS Original 750ml",
+        "price": "77.00",
+        "offer": "0.15",
+        "image": "articulo10.jpg"
+    },
+    {
+        "sku": "VS653EL1LQW0VLPE",
+        "name": "Anisado ANÍS NAJAR Crema Especial 750ml",
+        "price": "42.00",
+        "offer": "0.10",
+        "image": "articulo11.jpg"
+    },
+    {
+        "sku": "VI068EL0G65WJLPE",
+        "name": "Jarabe de goma VARGAS Chevalier 750ml",
+        "price": "17.00",
+        "offer": "0.05",
+        "image": "articulo12.jpg"
+    }
+]

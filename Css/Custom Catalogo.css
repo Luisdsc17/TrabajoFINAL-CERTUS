@@ -1,0 +1,93 @@
+/*Fuentes Externas*/
+@import url('https://fonts.googleapis.com/css2?family=Lobster+Two:wght@400;700&family=Noto+Sans:wght@400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Arvo:wght@400;700&display=swap');
+
+/* Estilo Principal*/
+*{
+    font-family: 'Arvo';
+    font-size: 1.02em;
+    color: #1c1c1c;
+    box-sizing: border-box;
+}
+
+/* Cuerpo de Página */
+body{
+    padding: 0px;
+    margin: 0px;
+    background-image: url(/imágenes/Recursos/Fondo\ Principal.jpg);
+    background-attachment: fixed;
+}
+
+/* Cabecera */
+header {
+    margin: 0px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    color: #ffffff;
+    background-color: #A67E24;
+    background-position: center;
+    background-size: cover;
+}
+
+
+
+/* Estilo del Título */
+header>h1{
+    font-size: 3.2em;
+    font-family: 'Lobster Two';
+    margin: 0px;
+    text-align: center;
+    color: #D7D7CF;
+}
+
+h2{
+    font-size: 1.5em;
+    color: #183672;
+}
+
+
+header>h2{
+    margin: 0px;
+    font-size: 2em;
+    font-family: 'Lobster Two';
+    text-align: center;
+    color: #a45926;
+}
+
+
+/* Página Catalogo */
+main.pagecatalogo{
+    padding-bottom: 20px;
+    background: #ddc4c2;
+    text-align: center;
+}
+/* Articulos */
+article{
+    border: #1c1c1c 2px solid; 
+}
+
+
+article>p{
+    margin: 10px 0px;
+}
+article>button{
+    margin-bottom: 20px;
+    font-size: 1em;
+    padding: 6px 15px;
+}
+
+/* Pie de Página*/
+footer{
+    padding: 20px;
+    text-align: center;
+}
+
+#LogoWhat{
+    width: 64px;
+    position: fixed;
+    right: 20px;
+    bottom: 20px;
+}
+
+
+
